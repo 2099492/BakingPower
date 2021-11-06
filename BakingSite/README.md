@@ -9,7 +9,7 @@ This is a e-commerce site for a store that sells baking goods.
 
 ## Installation
 
-Install my-project with npm
+Install BakingPower
 
 ```bash
   composer install
